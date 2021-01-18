@@ -3,7 +3,7 @@ Shake It, Shake It!
 =======================================================================
 
 ## Play It!
-당신의 2세의 얼굴을 만들어보세요!    
+당신의 2세 얼굴을 만들어보세요!    
 'Shake It, Shake It!' Colab: ![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](]    
 
 ## 'Shake It, Shake It!'이란
