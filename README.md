@@ -4,7 +4,8 @@ Shake It, Shake It!
 
 ## Play It!
 당신의 2세 얼굴을 만들어보세요!    
-'Shake It, Shake It!' Colab: ![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](]    
+'Shake It, Shake It!' Colab: 
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://drive.google.com/file/d/1Um6E6OOvlxqoK7pNjxMdq2nakldLu4No/view?usp=sharing)    
 
 ## 'Shake It, Shake It!'이란
 **Shake It, Shake It은 StyleGan2-ADA를 기반으로 학습한 2세 예측 프로그램입니다.**    
