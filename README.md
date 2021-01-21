@@ -22,7 +22,7 @@ Encoder: [StyleGAN2-ada-Encoder](https://github.com/hyewon11/stylegan2-ada-encod
   <img style="margin:50px 0 10px 0" src="https://user-images.githubusercontent.com/39722108/104934088-120e9980-59ed-11eb-8a03-a7ca42b83020.PNG" alt="ER diagram" width="80%" height="80%"/>
 </p>
 
-**더 많은 결과 이미지를 보고 싶다면? Click it!:** [Google Drive]()
+**더 많은 결과 이미지를 보고 싶다면? Click it!:** [Google Drive](https://drive.google.com/drive/folders/1XmuNc6nIX-hkMl_0KWawbf3pkCid6aai)
 
 ## 의의
 * 256*256 data와 StyleGan2-ADA 모델 사용으로 효율성 증대
